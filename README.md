@@ -10,6 +10,34 @@ Full Stack Developer • SIH 2025 Winner 🏆 • Problem Solver • Builder
 
 ---
 
+# 🤝 Let's Connect
+
+<p align="center">
+  
+<a href="https://www.linkedin.com/in/abhinav-pramanik/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:abhinavpramank@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<!-- <a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a> -->
+
+<a href="https://x.com/AbhinavPramanik" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/abhinavpramanik" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</p>
+
+---
+
 ## 🚀 About Me
 
 🎓 Computer Science Undergraduate at **Government Engineering College Bilaspur**
@@ -104,34 +132,6 @@ Full Stack Developer • SIH 2025 Winner 🏆 • Problem Solver • Builder
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavpramanik&theme=tokyonight"/>
-</p>
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-  
-<a href="https://www.linkedin.com/in/abhinav-pramanik/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:abhinavpramank@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-<!-- <a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a> -->
-
-<a href="https://x.com/AbhinavPramanik" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
-<a href="https://instagram.com/abhinavpramanik" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
 </p>
 
 ---
