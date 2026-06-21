@@ -5,7 +5,7 @@ Full Stack Developer • SIH 2025 Winner 🏆 • Problem Solver • Builder
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=700&lines=Building+Scalable+Web+Applications;Smart+India+Hackathon+2025+Winner;Next.js+%7C+Node.js+%7C+MongoDB;Turning+Ideas+Into+Products+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=700&lines=Building+Scalable+Web+Applications;Smart+India+Hackathon+2025+Winner;Next.js+%7C+Node.js+%7C+MongoDB;Turning+Ideas+Into+Products+%F0%9F%9A%80" />
 </p>
 
 ---
