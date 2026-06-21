@@ -111,17 +111,27 @@ Full Stack Developer • SIH 2025 Winner 🏆 • Problem Solver • Builder
 # 🤝 Let's Connect
 
 <p align="center">
-<a href="YOUR_LINKEDIN">
+  
+<a href="https://www.linkedin.com/in/abhinav-pramanik/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:abhinavpramank@gmail.com">
+<a href="mailto:abhinavpramank@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
+<!-- <a href="YOUR_PORTFOLIO">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a> -->
+
+<a href="https://x.com/AbhinavPramanik" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
+
+<a href="https://instagram.com/abhinavpramanik" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
 </p>
 
 ---
