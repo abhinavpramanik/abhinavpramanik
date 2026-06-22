@@ -137,5 +137,5 @@ Full Stack Developer • SIH 2025 Winner 🏆 • Problem Solver • Builder
 ---
 
 <p align="center">
-💭 <i>"Code. Build. Learn. Repeat."</i>
+💭 <i>"Code. Build. Learn. Repeat..."</i>
 </p>
